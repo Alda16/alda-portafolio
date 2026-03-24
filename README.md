@@ -1,4 +1,4 @@
-# Portafolio Minimalista - Joel Moreno
+# Portafolio - Joel Moreno
 
 Bienvenid@ a mi portafolio!. En el podras navegar por mi github con una interfaz sencilla, conociendo los proyectos que voy desarrollando en mis tiempos libres, espero y sean interesantes para ti.
 
